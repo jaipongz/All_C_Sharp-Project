@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\naruemol\naruemol\bin\Debug\naruemol.exe.config
+C:\Users\admin\source\repos\naruemol\naruemol\bin\Debug\naruemol.exe
+C:\Users\admin\source\repos\naruemol\naruemol\bin\Debug\naruemol.pdb
+C:\Users\admin\source\repos\naruemol\naruemol\obj\Debug\naruemol.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\naruemol\naruemol\obj\Debug\naruemol.Form1.resources
+C:\Users\admin\source\repos\naruemol\naruemol\obj\Debug\naruemol.Properties.Resources.resources
+C:\Users\admin\source\repos\naruemol\naruemol\obj\Debug\naruemol.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\naruemol\naruemol\obj\Debug\naruemol.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\naruemol\naruemol\obj\Debug\naruemol.exe
+C:\Users\admin\source\repos\naruemol\naruemol\obj\Debug\naruemol.pdb

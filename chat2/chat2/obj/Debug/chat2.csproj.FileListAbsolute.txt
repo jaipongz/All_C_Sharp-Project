@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\chat2\chat2\bin\Debug\chat2.exe.config
+C:\Users\admin\source\repos\chat2\chat2\bin\Debug\chat2.exe
+C:\Users\admin\source\repos\chat2\chat2\bin\Debug\chat2.pdb
+C:\Users\admin\source\repos\chat2\chat2\obj\Debug\chat2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\chat2\chat2\obj\Debug\chat2.Form1.resources
+C:\Users\admin\source\repos\chat2\chat2\obj\Debug\chat2.Properties.Resources.resources
+C:\Users\admin\source\repos\chat2\chat2\obj\Debug\chat2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\chat2\chat2\obj\Debug\chat2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\chat2\chat2\obj\Debug\chat2.exe
+C:\Users\admin\source\repos\chat2\chat2\obj\Debug\chat2.pdb

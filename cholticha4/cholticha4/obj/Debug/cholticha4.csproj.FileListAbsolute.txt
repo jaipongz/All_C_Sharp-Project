@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\cholticha4\cholticha4\bin\Debug\cholticha4.exe.config
+C:\Users\admin\source\repos\cholticha4\cholticha4\bin\Debug\cholticha4.exe
+C:\Users\admin\source\repos\cholticha4\cholticha4\bin\Debug\cholticha4.pdb
+C:\Users\admin\source\repos\cholticha4\cholticha4\obj\Debug\cholticha4.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\cholticha4\cholticha4\obj\Debug\cholticha4.Form1.resources
+C:\Users\admin\source\repos\cholticha4\cholticha4\obj\Debug\cholticha4.Properties.Resources.resources
+C:\Users\admin\source\repos\cholticha4\cholticha4\obj\Debug\cholticha4.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\cholticha4\cholticha4\obj\Debug\cholticha4.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\cholticha4\cholticha4\obj\Debug\cholticha4.exe
+C:\Users\admin\source\repos\cholticha4\cholticha4\obj\Debug\cholticha4.pdb

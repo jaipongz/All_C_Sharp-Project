@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\020964\020964\bin\Debug\020964.exe.config
+C:\Users\admin\source\repos\020964\020964\bin\Debug\020964.exe
+C:\Users\admin\source\repos\020964\020964\bin\Debug\020964.pdb
+C:\Users\admin\source\repos\020964\020964\obj\Debug\020964.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\020964\020964\obj\Debug\_020964.Dipsit.resources
+C:\Users\admin\source\repos\020964\020964\obj\Debug\_020964.Form1.resources
+C:\Users\admin\source\repos\020964\020964\obj\Debug\_020964.Form2.resources
+C:\Users\admin\source\repos\020964\020964\obj\Debug\_020964.Properties.Resources.resources
+C:\Users\admin\source\repos\020964\020964\obj\Debug\020964.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\020964\020964\obj\Debug\020964.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\020964\020964\obj\Debug\020964.exe
+C:\Users\admin\source\repos\020964\020964\obj\Debug\020964.pdb
+C:\Users\admin\source\repos\020964\020964\obj\Debug\_020964.fast.resources
+C:\Users\admin\source\repos\020964\020964\obj\Debug\_020964.Form3.resources
+C:\Users\admin\source\repos\020964\020964\obj\Debug\_020964.Withdraw.resources

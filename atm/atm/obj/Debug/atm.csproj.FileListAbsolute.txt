@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\atm\atm\bin\Debug\atm.exe.config
+C:\Users\admin\source\repos\atm\atm\bin\Debug\atm.exe
+C:\Users\admin\source\repos\atm\atm\bin\Debug\atm.pdb
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.balance.resources
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.diposite.resources
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.Form1.resources
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.Properties.Resources.resources
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.exe
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.pdb
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.fast.resources
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.withdraw.resources
+C:\Users\admin\source\repos\atm\atm\obj\Debug\atm.stagement.resources

@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\bin\Debug\testpaphasara.exe.config
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\bin\Debug\testpaphasara.exe
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\bin\Debug\testpaphasara.pdb
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\obj\Debug\testpaphasara.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\obj\Debug\testpaphasara.Form1.resources
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\obj\Debug\testpaphasara.Properties.Resources.resources
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\obj\Debug\testpaphasara.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\obj\Debug\testpaphasara.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\obj\Debug\testpaphasara.exe
+C:\Users\admin\source\repos\testpaphasara\testpaphasara\obj\Debug\testpaphasara.pdb

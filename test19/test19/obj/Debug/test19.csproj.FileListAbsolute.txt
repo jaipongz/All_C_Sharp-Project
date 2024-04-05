@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\test19\test19\bin\Debug\test19.exe.config
+C:\Users\admin\source\repos\test19\test19\bin\Debug\test19.exe
+C:\Users\admin\source\repos\test19\test19\bin\Debug\test19.pdb
+C:\Users\admin\source\repos\test19\test19\obj\Debug\test19.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\test19\test19\obj\Debug\test19.Form1.resources
+C:\Users\admin\source\repos\test19\test19\obj\Debug\test19.Properties.Resources.resources
+C:\Users\admin\source\repos\test19\test19\obj\Debug\test19.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\test19\test19\obj\Debug\test19.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\test19\test19\obj\Debug\test19.exe
+C:\Users\admin\source\repos\test19\test19\obj\Debug\test19.pdb

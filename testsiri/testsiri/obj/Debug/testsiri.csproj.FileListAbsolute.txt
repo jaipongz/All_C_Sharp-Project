@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\testsiri\testsiri\bin\Debug\testsiri.exe.config
+C:\Users\admin\source\repos\testsiri\testsiri\bin\Debug\testsiri.exe
+C:\Users\admin\source\repos\testsiri\testsiri\bin\Debug\testsiri.pdb
+C:\Users\admin\source\repos\testsiri\testsiri\obj\Debug\testsiri.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\testsiri\testsiri\obj\Debug\testsiri.Form1.resources
+C:\Users\admin\source\repos\testsiri\testsiri\obj\Debug\testsiri.Properties.Resources.resources
+C:\Users\admin\source\repos\testsiri\testsiri\obj\Debug\testsiri.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\testsiri\testsiri\obj\Debug\testsiri.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\testsiri\testsiri\obj\Debug\testsiri.exe
+C:\Users\admin\source\repos\testsiri\testsiri\obj\Debug\testsiri.pdb

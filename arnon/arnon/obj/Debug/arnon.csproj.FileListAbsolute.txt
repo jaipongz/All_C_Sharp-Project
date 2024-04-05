@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\arnon\arnon\bin\Debug\arnon.exe.config
+C:\Users\admin\source\repos\arnon\arnon\bin\Debug\arnon.exe
+C:\Users\admin\source\repos\arnon\arnon\bin\Debug\arnon.pdb
+C:\Users\admin\source\repos\arnon\arnon\obj\Debug\arnon.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\arnon\arnon\obj\Debug\arnon.Form1.resources
+C:\Users\admin\source\repos\arnon\arnon\obj\Debug\arnon.Properties.Resources.resources
+C:\Users\admin\source\repos\arnon\arnon\obj\Debug\arnon.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\arnon\arnon\obj\Debug\arnon.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\arnon\arnon\obj\Debug\arnon.exe
+C:\Users\admin\source\repos\arnon\arnon\obj\Debug\arnon.pdb

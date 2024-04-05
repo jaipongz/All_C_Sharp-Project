@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\110864\110864\bin\Debug\110864.exe.config
+C:\Users\admin\source\repos\110864\110864\bin\Debug\110864.exe
+C:\Users\admin\source\repos\110864\110864\bin\Debug\110864.pdb
+C:\Users\admin\source\repos\110864\110864\obj\Debug\110864.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\110864\110864\obj\Debug\_110864.Form1.resources
+C:\Users\admin\source\repos\110864\110864\obj\Debug\_110864.Properties.Resources.resources
+C:\Users\admin\source\repos\110864\110864\obj\Debug\110864.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\110864\110864\obj\Debug\110864.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\110864\110864\obj\Debug\110864.exe
+C:\Users\admin\source\repos\110864\110864\obj\Debug\110864.pdb

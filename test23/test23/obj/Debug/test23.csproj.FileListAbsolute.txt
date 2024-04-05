@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\test23\test23\bin\Debug\test23.exe.config
+C:\Users\admin\source\repos\test23\test23\bin\Debug\test23.exe
+C:\Users\admin\source\repos\test23\test23\bin\Debug\test23.pdb
+C:\Users\admin\source\repos\test23\test23\obj\Debug\test23.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\test23\test23\obj\Debug\test23.Form1.resources
+C:\Users\admin\source\repos\test23\test23\obj\Debug\test23.Properties.Resources.resources
+C:\Users\admin\source\repos\test23\test23\obj\Debug\test23.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\test23\test23\obj\Debug\test23.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\test23\test23\obj\Debug\test23.exe
+C:\Users\admin\source\repos\test23\test23\obj\Debug\test23.pdb

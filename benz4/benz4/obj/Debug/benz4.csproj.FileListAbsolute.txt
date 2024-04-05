@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\benz4\benz4\bin\Debug\benz4.exe.config
+C:\Users\admin\source\repos\benz4\benz4\bin\Debug\benz4.exe
+C:\Users\admin\source\repos\benz4\benz4\bin\Debug\benz4.pdb
+C:\Users\admin\source\repos\benz4\benz4\obj\Debug\benz4.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\benz4\benz4\obj\Debug\benz4.Form1.resources
+C:\Users\admin\source\repos\benz4\benz4\obj\Debug\benz4.Properties.Resources.resources
+C:\Users\admin\source\repos\benz4\benz4\obj\Debug\benz4.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\benz4\benz4\obj\Debug\benz4.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\benz4\benz4\obj\Debug\benz4.exe
+C:\Users\admin\source\repos\benz4\benz4\obj\Debug\benz4.pdb

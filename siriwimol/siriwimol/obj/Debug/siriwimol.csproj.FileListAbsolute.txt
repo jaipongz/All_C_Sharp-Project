@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\siriwimol\siriwimol\obj\Debug\siriwimol.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\siriwimol\siriwimol\obj\Debug\siriwimol.Form1.resources
+C:\Users\admin\source\repos\siriwimol\siriwimol\obj\Debug\siriwimol.Properties.Resources.resources
+C:\Users\admin\source\repos\siriwimol\siriwimol\obj\Debug\siriwimol.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\siriwimol\siriwimol\obj\Debug\siriwimol.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\siriwimol\siriwimol\bin\Debug\siriwimol.exe.config
+C:\Users\admin\source\repos\siriwimol\siriwimol\bin\Debug\siriwimol.exe
+C:\Users\admin\source\repos\siriwimol\siriwimol\bin\Debug\siriwimol.pdb
+C:\Users\admin\source\repos\siriwimol\siriwimol\obj\Debug\siriwimol.exe
+C:\Users\admin\source\repos\siriwimol\siriwimol\obj\Debug\siriwimol.pdb

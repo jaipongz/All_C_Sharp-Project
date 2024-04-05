@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\mark3\mark3\bin\Debug\mark3.exe.config
+C:\Users\admin\source\repos\mark3\mark3\bin\Debug\mark3.exe
+C:\Users\admin\source\repos\mark3\mark3\bin\Debug\mark3.pdb
+C:\Users\admin\source\repos\mark3\mark3\obj\Debug\mark3.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\mark3\mark3\obj\Debug\mark3.Form1.resources
+C:\Users\admin\source\repos\mark3\mark3\obj\Debug\mark3.Properties.Resources.resources
+C:\Users\admin\source\repos\mark3\mark3\obj\Debug\mark3.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\mark3\mark3\obj\Debug\mark3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\mark3\mark3\obj\Debug\mark3.exe
+C:\Users\admin\source\repos\mark3\mark3\obj\Debug\mark3.pdb

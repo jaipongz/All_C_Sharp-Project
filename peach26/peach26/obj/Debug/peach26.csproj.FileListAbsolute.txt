@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\peach26\peach26\bin\Debug\peach26.exe.config
+C:\Users\admin\source\repos\peach26\peach26\bin\Debug\peach26.exe
+C:\Users\admin\source\repos\peach26\peach26\bin\Debug\peach26.pdb
+C:\Users\admin\source\repos\peach26\peach26\obj\Debug\peach26.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\peach26\peach26\obj\Debug\peach26.Form1.resources
+C:\Users\admin\source\repos\peach26\peach26\obj\Debug\peach26.Properties.Resources.resources
+C:\Users\admin\source\repos\peach26\peach26\obj\Debug\peach26.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\peach26\peach26\obj\Debug\peach26.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\peach26\peach26\obj\Debug\peach26.exe
+C:\Users\admin\source\repos\peach26\peach26\obj\Debug\peach26.pdb

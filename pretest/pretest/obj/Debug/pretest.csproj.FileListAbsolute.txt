@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\pretest\pretest\bin\Debug\pretest.exe.config
+C:\Users\admin\source\repos\pretest\pretest\bin\Debug\pretest.exe
+C:\Users\admin\source\repos\pretest\pretest\bin\Debug\pretest.pdb
+C:\Users\admin\source\repos\pretest\pretest\obj\Debug\pretest.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\pretest\pretest\obj\Debug\pretest.Form1.resources
+C:\Users\admin\source\repos\pretest\pretest\obj\Debug\pretest.Properties.Resources.resources
+C:\Users\admin\source\repos\pretest\pretest\obj\Debug\pretest.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\pretest\pretest\obj\Debug\pretest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\pretest\pretest\obj\Debug\pretest.exe
+C:\Users\admin\source\repos\pretest\pretest\obj\Debug\pretest.pdb

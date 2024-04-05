@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\noon\noon\obj\Debug\noon.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\noon\noon\obj\Debug\noon.Form1.resources
+C:\Users\admin\source\repos\noon\noon\obj\Debug\noon.Properties.Resources.resources
+C:\Users\admin\source\repos\noon\noon\obj\Debug\noon.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\noon\noon\obj\Debug\noon.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\noon\noon\bin\Debug\noon.exe.config
+C:\Users\admin\source\repos\noon\noon\bin\Debug\noon.exe
+C:\Users\admin\source\repos\noon\noon\bin\Debug\noon.pdb
+C:\Users\admin\source\repos\noon\noon\obj\Debug\noon.exe
+C:\Users\admin\source\repos\noon\noon\obj\Debug\noon.pdb

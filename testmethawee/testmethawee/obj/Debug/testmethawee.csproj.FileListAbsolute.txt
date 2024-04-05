@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\testmethawee\testmethawee\bin\Debug\testmethawee.exe.config
+C:\Users\admin\source\repos\testmethawee\testmethawee\bin\Debug\testmethawee.exe
+C:\Users\admin\source\repos\testmethawee\testmethawee\bin\Debug\testmethawee.pdb
+C:\Users\admin\source\repos\testmethawee\testmethawee\obj\Debug\testmethawee.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\testmethawee\testmethawee\obj\Debug\testmethawee.Form1.resources
+C:\Users\admin\source\repos\testmethawee\testmethawee\obj\Debug\testmethawee.Properties.Resources.resources
+C:\Users\admin\source\repos\testmethawee\testmethawee\obj\Debug\testmethawee.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\testmethawee\testmethawee\obj\Debug\testmethawee.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\testmethawee\testmethawee\obj\Debug\testmethawee.exe
+C:\Users\admin\source\repos\testmethawee\testmethawee\obj\Debug\testmethawee.pdb

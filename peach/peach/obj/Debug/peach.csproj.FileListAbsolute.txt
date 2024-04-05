@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\peach\peach\bin\Debug\peach.exe.config
+C:\Users\admin\source\repos\peach\peach\bin\Debug\peach.exe
+C:\Users\admin\source\repos\peach\peach\bin\Debug\peach.pdb
+C:\Users\admin\source\repos\peach\peach\obj\Debug\peach.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\peach\peach\obj\Debug\peach.Form1.resources
+C:\Users\admin\source\repos\peach\peach\obj\Debug\peach.Properties.Resources.resources
+C:\Users\admin\source\repos\peach\peach\obj\Debug\peach.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\peach\peach\obj\Debug\peach.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\peach\peach\obj\Debug\peach.exe
+C:\Users\admin\source\repos\peach\peach\obj\Debug\peach.pdb

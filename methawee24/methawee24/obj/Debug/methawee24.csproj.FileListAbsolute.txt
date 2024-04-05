@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\methawee24\methawee24\bin\Debug\methawee24.exe.config
+C:\Users\admin\source\repos\methawee24\methawee24\bin\Debug\methawee24.exe
+C:\Users\admin\source\repos\methawee24\methawee24\bin\Debug\methawee24.pdb
+C:\Users\admin\source\repos\methawee24\methawee24\obj\Debug\methawee24.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\methawee24\methawee24\obj\Debug\methawee24.Form1.resources
+C:\Users\admin\source\repos\methawee24\methawee24\obj\Debug\methawee24.Properties.Resources.resources
+C:\Users\admin\source\repos\methawee24\methawee24\obj\Debug\methawee24.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\methawee24\methawee24\obj\Debug\methawee24.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\methawee24\methawee24\obj\Debug\methawee24.exe
+C:\Users\admin\source\repos\methawee24\methawee24\obj\Debug\methawee24.pdb

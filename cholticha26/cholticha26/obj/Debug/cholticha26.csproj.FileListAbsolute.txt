@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\cholticha26\cholticha26\bin\Debug\cholticha26.exe.config
+C:\Users\admin\source\repos\cholticha26\cholticha26\bin\Debug\cholticha26.exe
+C:\Users\admin\source\repos\cholticha26\cholticha26\bin\Debug\cholticha26.pdb
+C:\Users\admin\source\repos\cholticha26\cholticha26\obj\Debug\cholticha26.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\cholticha26\cholticha26\obj\Debug\cholticha26.Form1.resources
+C:\Users\admin\source\repos\cholticha26\cholticha26\obj\Debug\cholticha26.Properties.Resources.resources
+C:\Users\admin\source\repos\cholticha26\cholticha26\obj\Debug\cholticha26.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\cholticha26\cholticha26\obj\Debug\cholticha26.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\cholticha26\cholticha26\obj\Debug\cholticha26.exe
+C:\Users\admin\source\repos\cholticha26\cholticha26\obj\Debug\cholticha26.pdb

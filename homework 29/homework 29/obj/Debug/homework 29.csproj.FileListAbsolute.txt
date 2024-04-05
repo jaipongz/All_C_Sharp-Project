@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\homework 29\homework 29\bin\Debug\homework 29.exe.config
+C:\Users\admin\source\repos\homework 29\homework 29\bin\Debug\homework 29.exe
+C:\Users\admin\source\repos\homework 29\homework 29\bin\Debug\homework 29.pdb
+C:\Users\admin\source\repos\homework 29\homework 29\obj\Debug\homework 29.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\homework 29\homework 29\obj\Debug\homework_29.Form1.resources
+C:\Users\admin\source\repos\homework 29\homework 29\obj\Debug\homework_29.Properties.Resources.resources
+C:\Users\admin\source\repos\homework 29\homework 29\obj\Debug\homework 29.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\homework 29\homework 29\obj\Debug\homework 29.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\homework 29\homework 29\obj\Debug\homework 29.exe
+C:\Users\admin\source\repos\homework 29\homework 29\obj\Debug\homework 29.pdb

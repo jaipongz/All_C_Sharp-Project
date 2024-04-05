@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\bin\Debug\testchatchawan.exe.config
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\bin\Debug\testchatchawan.exe
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\bin\Debug\testchatchawan.pdb
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\obj\Debug\testchatchawan.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\obj\Debug\testchatchawan.Form1.resources
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\obj\Debug\testchatchawan.Properties.Resources.resources
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\obj\Debug\testchatchawan.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\obj\Debug\testchatchawan.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\obj\Debug\testchatchawan.exe
+C:\Users\admin\source\repos\testchatchawan\testchatchawan\obj\Debug\testchatchawan.pdb

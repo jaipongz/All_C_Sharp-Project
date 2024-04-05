@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: work, Configuration: Debug Any CPU ------
+1>C:\Users\admin\source\repos\work\work\Form1.cs(38,30,38,39): error CS7036: There is no argument given that corresponds to the required formal parameter 'x' of 'Form1.calculate(double, double)'
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

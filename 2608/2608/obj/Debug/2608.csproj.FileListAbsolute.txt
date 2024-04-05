@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\2608\2608\obj\Debug\2608.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\2608\2608\obj\Debug\_2608.Form1.resources
+C:\Users\admin\source\repos\2608\2608\obj\Debug\_2608.Properties.Resources.resources
+C:\Users\admin\source\repos\2608\2608\obj\Debug\2608.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\2608\2608\obj\Debug\2608.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\2608\2608\bin\Debug\2608.exe.config
+C:\Users\admin\source\repos\2608\2608\bin\Debug\2608.exe
+C:\Users\admin\source\repos\2608\2608\bin\Debug\2608.pdb
+C:\Users\admin\source\repos\2608\2608\obj\Debug\2608.exe
+C:\Users\admin\source\repos\2608\2608\obj\Debug\2608.pdb

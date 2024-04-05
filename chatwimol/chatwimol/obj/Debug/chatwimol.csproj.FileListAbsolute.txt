@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\chatwimol\chatwimol\bin\Debug\chatwimol.exe.config
+C:\Users\admin\source\repos\chatwimol\chatwimol\bin\Debug\chatwimol.exe
+C:\Users\admin\source\repos\chatwimol\chatwimol\bin\Debug\chatwimol.pdb
+C:\Users\admin\source\repos\chatwimol\chatwimol\obj\Debug\chatwimol.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\chatwimol\chatwimol\obj\Debug\chatwimol.Form1.resources
+C:\Users\admin\source\repos\chatwimol\chatwimol\obj\Debug\chatwimol.Properties.Resources.resources
+C:\Users\admin\source\repos\chatwimol\chatwimol\obj\Debug\chatwimol.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\chatwimol\chatwimol\obj\Debug\chatwimol.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\chatwimol\chatwimol\obj\Debug\chatwimol.exe
+C:\Users\admin\source\repos\chatwimol\chatwimol\obj\Debug\chatwimol.pdb

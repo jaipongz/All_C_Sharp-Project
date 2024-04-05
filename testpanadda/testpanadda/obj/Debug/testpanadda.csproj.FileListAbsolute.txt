@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\testpanadda\testpanadda\bin\Debug\testpanadda.exe.config
+C:\Users\admin\source\repos\testpanadda\testpanadda\bin\Debug\testpanadda.exe
+C:\Users\admin\source\repos\testpanadda\testpanadda\bin\Debug\testpanadda.pdb
+C:\Users\admin\source\repos\testpanadda\testpanadda\obj\Debug\testpanadda.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\testpanadda\testpanadda\obj\Debug\testpanadda.Form1.resources
+C:\Users\admin\source\repos\testpanadda\testpanadda\obj\Debug\testpanadda.Properties.Resources.resources
+C:\Users\admin\source\repos\testpanadda\testpanadda\obj\Debug\testpanadda.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\testpanadda\testpanadda\obj\Debug\testpanadda.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\testpanadda\testpanadda\obj\Debug\testpanadda.exe
+C:\Users\admin\source\repos\testpanadda\testpanadda\obj\Debug\testpanadda.pdb

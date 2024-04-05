@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\mark1\mark1\bin\Debug\mark1.exe.config
+C:\Users\admin\source\repos\mark1\mark1\bin\Debug\mark1.exe
+C:\Users\admin\source\repos\mark1\mark1\bin\Debug\mark1.pdb
+C:\Users\admin\source\repos\mark1\mark1\obj\Debug\mark1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\mark1\mark1\obj\Debug\mark1.Form1.resources
+C:\Users\admin\source\repos\mark1\mark1\obj\Debug\mark1.Properties.Resources.resources
+C:\Users\admin\source\repos\mark1\mark1\obj\Debug\mark1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\mark1\mark1\obj\Debug\mark1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\mark1\mark1\obj\Debug\mark1.exe
+C:\Users\admin\source\repos\mark1\mark1\obj\Debug\mark1.pdb

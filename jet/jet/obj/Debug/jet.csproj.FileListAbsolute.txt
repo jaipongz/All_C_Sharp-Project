@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\jet\jet\obj\Debug\jet.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\jet\jet\obj\Debug\jet.Form1.resources
+C:\Users\admin\source\repos\jet\jet\obj\Debug\jet.Properties.Resources.resources
+C:\Users\admin\source\repos\jet\jet\obj\Debug\jet.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\jet\jet\obj\Debug\jet.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\jet\jet\bin\Debug\jet.exe.config
+C:\Users\admin\source\repos\jet\jet\bin\Debug\jet.exe
+C:\Users\admin\source\repos\jet\jet\bin\Debug\jet.pdb
+C:\Users\admin\source\repos\jet\jet\obj\Debug\jet.exe
+C:\Users\admin\source\repos\jet\jet\obj\Debug\jet.pdb
